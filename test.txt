@@ -1,1 +1,2 @@
 This is a text file.
+adding a new line for commit
