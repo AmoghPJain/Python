@@ -1,10 +1,1 @@
-Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
-Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
-MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
-MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
-Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
-Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
-Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
-SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
-declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
-declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+Understanding git logs
