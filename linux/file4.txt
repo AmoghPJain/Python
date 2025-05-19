@@ -1,0 +1,80 @@
+./MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file2.txt:Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file2.txt:Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file2.txt:MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file2.txt:MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file2.txt:Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file2.txt:Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file2.txt:Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file2.txt:SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file2.txt:declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file2.txt:declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./file2.txt:file1.txt:Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file2.txt:file1.txt:Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file2.txt:file1.txt:MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file2.txt:file1.txt:MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file2.txt:file1.txt:Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file2.txt:file1.txt:Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file2.txt:file1.txt:Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file2.txt:file1.txt:SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file2.txt:file1.txt:declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file2.txt:file1.txt:declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file1.txt:Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file1.txt:Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file1.txt:MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file1.txt:MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file1.txt:Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file1.txt:Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file1.txt:Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file1.txt:SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file1.txt:declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file1.txt:declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./file3.txt:./MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file3.txt:./Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file3.txt:./Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file3.txt:./Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file3.txt:./MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file3.txt:./file2.txt:Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file3.txt:./file2.txt:Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file3.txt:./file2.txt:MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file3.txt:./file2.txt:MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file3.txt:./file2.txt:Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file3.txt:./file2.txt:Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file3.txt:./file2.txt:Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file3.txt:./file2.txt:SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file3.txt:./file2.txt:declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file3.txt:./file2.txt:declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./file3.txt:./file2.txt:file1.txt:Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file3.txt:./file2.txt:file1.txt:Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file3.txt:./file2.txt:file1.txt:MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file3.txt:./file2.txt:file1.txt:MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file3.txt:./file2.txt:file1.txt:Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file3.txt:./file2.txt:file1.txt:Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file3.txt:./file2.txt:file1.txt:Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file3.txt:./file2.txt:file1.txt:SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file3.txt:./file2.txt:file1.txt:declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file3.txt:./file2.txt:file1.txt:declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./file3.txt:./SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file3.txt:./declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file3.txt:./declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
+./file3.txt:./Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file3.txt:./Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file3.txt:./file1.txt:Inheritance.py:Access specifiers or access modifiers in python programming are used to limit the access of class variables and class methods outside of class 
+./file3.txt:./file1.txt:Inheritance.py:All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword 
+./file3.txt:./file1.txt:MyFuncions.py:These functions are defined and pre-coded in python. Some examples of built-in functions are as follows:
+./file3.txt:./file1.txt:MyImport.py:from TimeProgram import timeofday # TimeProgram is a python file in the current project and timeofday is a function inside it
+./file3.txt:./file1.txt:Mydict.py:mg1.popitem()	# Removes and returns the last inserted key-value pair (python 3.7+)
+./file3.txt:./file1.txt:Os_Shutil_modules.py:#     os.mkdir(f"C:/Amogh/Python/Day {i}")        #creates day0-day100 folders inside python
+./file3.txt:./file1.txt:Os_Shutil_modules.py:#     os.rename(f"C:/Amogh/Python/Day {i}",f"C:/Amogh/Python/Python {i}")  #renaming all the folders from day to python
+./file3.txt:./file1.txt:SecretCode.py:Write a python program to translate a message into secret code language. Use the rules below to translate normal English into secret code language
+./file3.txt:./file1.txt:declutter files.py:    if not os.path.exists(f"C:/Amogh/Python/Declutter/python{i}.py"): # create a file if it is not present
+./file3.txt:./file1.txt:declutter files.py:        with open(f"C:/Amogh/Python/Declutter/python{i}.py","w") as f:
