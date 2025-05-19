@@ -1,1 +1,2 @@
 Understanding git logs
+edit 1
